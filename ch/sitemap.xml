@@ -22,25 +22,6 @@
   </url>
   
   <url>
-    <loc>/ch/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="/ch/"
-                />
-  </url>
-  
-  <url>
     <loc>/ch/tags/</loc>
     <xhtml:link
                 rel="alternate"
@@ -56,6 +37,25 @@
                 rel="alternate"
                 hreflang="ch"
                 href="/ch/tags/"
+                />
+  </url>
+  
+  <url>
+    <loc>/ch/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/"
                 />
   </url>
   

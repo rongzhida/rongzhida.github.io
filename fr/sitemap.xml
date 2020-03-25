@@ -292,25 +292,6 @@
   </url>
   
   <url>
-    <loc>/fr/</loc>
-    <xhtml:link
-                rel="alternate"
-                hreflang="en"
-                href="/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="ch"
-                href="/ch/"
-                />
-    <xhtml:link
-                rel="alternate"
-                hreflang="fr"
-                href="/fr/"
-                />
-  </url>
-  
-  <url>
     <loc>/fr/faq/</loc>
     <xhtml:link
                 rel="alternate"
@@ -354,6 +335,25 @@
                 rel="alternate"
                 hreflang="fr"
                 href="/fr/contact/"
+                />
+  </url>
+  
+  <url>
+    <loc>/fr/</loc>
+    <xhtml:link
+                rel="alternate"
+                hreflang="en"
+                href="/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="ch"
+                href="/ch/"
+                />
+    <xhtml:link
+                rel="alternate"
+                hreflang="fr"
+                href="/fr/"
                 />
   </url>
   
